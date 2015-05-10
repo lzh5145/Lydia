@@ -1,0 +1,17 @@
+
+body {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  padding: 15em;
+  background: linear-gradient( rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35) ), url("http://i.imgur.com/kcmPsDm.jpg");
+    -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
