@@ -12,6 +12,10 @@ body {
         background-repeat: no-repeat;
 }
 
+.fa-cog {
+  color: black;
+}
+
 h1 {
   color: white;
   text-align: center;
